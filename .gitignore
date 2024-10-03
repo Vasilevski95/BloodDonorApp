@@ -1,0 +1,27 @@
+# Frontend ignores
+node_modules/
+dist/
+build/
+.vscode/
+.env
+.env.*
+.vs/
+.vscode/
+
+# Backend ignores
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+.env
+
+# General ignores
+*.log
+*.tmp
+.DS_Store
+coverage/
